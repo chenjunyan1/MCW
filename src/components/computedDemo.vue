@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <h1>computed Demo:</h1>
     <!-- 使用computed方法时不可以加括号，加括号会变成 -->
     <div>Name: {{ name }}</div>
     <div>Name: {{ name }}</div>

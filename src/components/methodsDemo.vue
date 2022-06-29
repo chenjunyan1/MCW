@@ -1,5 +1,6 @@
 <template >
     <div>
+        <h1>methods Demo:</h1>
         <div>Name: {{ name() }}</div>
         <div>Name: {{ name() }}</div>
         <div>Name: {{ name() }}</div>
