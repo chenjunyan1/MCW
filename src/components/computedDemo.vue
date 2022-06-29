@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'computDemo',
+  name: 'computedDemo',
   props: {
     msg: String
   },

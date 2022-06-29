@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+
     <h1 style="text-align:center;">computed、methods和watch的区别</h1>
 
     <!-- <methodsDemo /> -->
@@ -13,7 +13,7 @@
     <!-- 而 computed 中的函数所依赖的属性没有发生改变，那么调用当前函数的时候会从缓存中读取，
 从而性能开销比较小。当新的值需要大量计算才能得到，缓存的意义就非常大。 -->
 
-    <!-- <watchDemo /> -->
+    <watchDemo />
     <!-- 只有监听的值发生改变才会改变 -->
 
 
